@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <div style="text-align:center;border-bottom:2px solid rgb(55,62,71);margin-bottom:2rem;margin:0 auto;">
-    <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ersan Karimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! Arwin Marinta<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;" align="center">
   <a href="mailto:ersankarimii311@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge Logo"></a>
   <a href="https://www.linkedin.com/in/ersankarimi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge Logo"></a>
@@ -8,13 +8,6 @@
   <a href="https://www.instagram.com/ersankarimi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge Logo"></a>
   </div>
 </div><br><br>
-<ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
-    <li>🎓 Informatics Student at Institut Teknologi Kalimantan.</li>
-    <li>👨🏼‍💻 I am a Front-End Web Developer.</li>
-    <li>😁 I sometimes share my study results on my youtube channel. I know I'm no
-    expert, but I just wanted to share what I've learned to hone other skills
-    like public speaking, presentations, and more.</li>
-</ul><br>
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Technologies :</h2>
 
