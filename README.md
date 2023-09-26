@@ -3,4 +3,5 @@
  <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;" align="center">
 
 <a href="https://www.linkedin.com/in/arwin-marinta-95512a256/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=linkedin&logoColor=white&labelColor=%230A66C2"></a>
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=linkedin&logoColor=white&labelColor=%230A66C2)
   
