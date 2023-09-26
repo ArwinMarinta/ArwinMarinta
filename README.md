@@ -2,7 +2,7 @@
     <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Welcome My Github</h1>
   <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;" align="center">
 
-[link ke petanikode](https://www.petanikode.com/_blank/)
+![link ke petanikode](https://www.petanikode.com/_blank/)
 ![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png/)
   <div>LINKEDIN</div>
   <div>GMAIL</div>
