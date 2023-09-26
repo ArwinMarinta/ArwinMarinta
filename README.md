@@ -3,7 +3,7 @@
   <div style="display:flex; justify-content:center;align-items:center;gap:0.3rem;margin-bottom:0.8rem;" align="center">
 
 [link ke petanikode](https://www.petanikode.com/)
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png/_blank)
   <div>LINKEDIN</div>
   <div>GMAIL</div>
   <div>PROFILE</div>
