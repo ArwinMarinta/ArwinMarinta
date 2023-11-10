@@ -17,4 +17,13 @@ Welcome to my profile, I'm a student at Kalimantan Institute of Technology
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ArwinMarinta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArwinMarinta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
+</a>
+<a href="https://github.com/fahmialfareza/fahmialfareza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArwinMarinta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reza's GitHub Stats" />
+</a>
