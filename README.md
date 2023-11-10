@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wynnn_1/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwin-marinta-95512a256/)
 
-Welcome to my profile, I'm a student at Kalimantan Institute of Technology 
+Welcome to my profile, I am a student at the Kalimantan Institute of Technology
+currently pursuing a degree in informatics engineering. I have an interest in web development
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
