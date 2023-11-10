@@ -18,7 +18,7 @@ currently pursuing a degree in informatics engineering. I have an interest in we
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+## Stats
 
 <a href="https://github.com/ArwinMarinta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArwinMarinta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
