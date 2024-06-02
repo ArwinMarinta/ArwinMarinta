@@ -2,7 +2,10 @@
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wynnn_1/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwin-marinta-95512a256/)
-[![Linktree](https://img.shields.io/badge/Linktree-%23FF0000.svg?&style=for-the-badge&logo=tree&logoColor=white)](https://portofolio.arwinmarinta.com/)
+[![Linktree](https://img.shields.io/badge/Linktree-%23FF0000.svg?&style=for-the-badge&logo=tree&logoColor=white)](https://link-tree.arwinmarinta.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?&style=for-the-badge&logo=tree&logoColor=white)](https://portofolio.arwinmarinta.com/)
+
+
 
 
 Welcome to my profile, I am a student at the Kalimantan Institute of Technology
