@@ -37,7 +37,7 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 ## Stats
 
 <a href="https://github.com/ArwinMarinta">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersankarimi&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinmarinta&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
 </a>
 <a href="https://github.com/fahmialfareza/fahmialfareza">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArwinMarinta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reza's GitHub Stats" />
