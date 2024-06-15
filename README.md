@@ -22,6 +22,7 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/:badgeContent?logo=flutter&logoColor=%2302569B&label=Flutter&color=white)
 
 ## Stats
 
