@@ -8,8 +8,7 @@
 
 
 
-Welcome to my profile, I am a student at the Kalimantan Institute of Technology
-currently pursuing a degree in informatics engineering. I have an interest in web development
+Welcome to my profile, I am a student at Kalimantan Institute of Technology who is currently studying informatics engineering. I have an interest in web-based and mobile application development. I am more interested in the front end, but I can also work on the back end.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
