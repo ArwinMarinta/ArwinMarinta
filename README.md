@@ -26,6 +26,8 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/riverpod-%23007AFF.svg?style=for-the-badge&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
 
 
 
