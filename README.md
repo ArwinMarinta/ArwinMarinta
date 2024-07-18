@@ -37,7 +37,7 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 ## Stats
 <div  style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="https://github.com/ArwinMarinta">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arwinmarinta&layout=compact&langs_count=8&card_width=445px&theme=material-palenight"/> alt="Top Langs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arwinmarinta&layout=compact&langs_count=8&card_width=445px&theme=material-palenight" alt="Top Langs">
   </a>
   <a href="https://github.com/ArwinMarinta/">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arwinmarinta&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="Arwin Marinta GitHub stats">
