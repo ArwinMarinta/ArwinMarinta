@@ -29,7 +29,9 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
-
+| Services               | Technologies                                                                                                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Operating Systems      | ![](https://img.shields.io/badge/macOS%20-%23111111.svg?&style=for-the-badge&logo=macOS&logoColor=white) ![](https://img.shields.io/badge/linux%20-%23333333.svg?&style=for-the badge&logo=linux&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 
 
