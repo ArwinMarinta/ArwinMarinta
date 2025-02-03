@@ -22,11 +22,7 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 | Object–Relational Mapping (ORM) | ![](https://img.shields.io/badge/Prisma-%23D14F72.svg?style=for-the-badge&logo=prisma&logoColor=white) ![](https://img.shields.io/badge/Sequelize-%234B8BBE.svg?style=for-the-badge&logo=sequelize&logoColor=white) ![](https://img.shields.io/badge/TypeORM-%23FF0000.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 | Tools                           | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Figma-%230077B5.svg?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
-
-
-
+                                                                                                                                                                                                                              
 ## Stats
 <div  style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="https://github.com/ArwinMarinta">
