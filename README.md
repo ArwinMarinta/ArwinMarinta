@@ -2,13 +2,12 @@
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wynnn_1/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwin-marinta-95512a256/)
-[![Linktree](https://img.shields.io/badge/Linktree-%23FF0000.svg?&style=for-the-badge&logo=tree&logoColor=white)](https://link-tree.arwinmarinta.com/)
 
 
 
 
 
-Welcome to my profile, I am a student at Kalimantan Institute of Technology who is currently studying informatics engineering. I have an interest in web-based and mobile application development. I am more interested in the front end, but I can also work on the back end.
+Welcome to my profile. I am a Full-Stack Developer experienced in building modern web and mobile applications, covering front-end, back-end, and system integration. I enjoy working across the stack to deliver scalable, reliable, and well-structured solutions.
 
 ## Technologies & Tools
 | Services                        | Technologies                                                                                                                                                                              
@@ -23,8 +22,8 @@ Welcome to my profile, I am a student at Kalimantan Institute of Technology who 
 | Tools                           | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Figma-%230077B5.svg?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 | Log & Monitoring | ![](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 | CI/CD & Containerization | ![](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-| Real--time Communication | ![](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white) ![](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-| Cache & In--Memory Store | ![](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+| Realtime Communication        | ![](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white) ![](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+| Cache                           | ![](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
                                        
                                                                                                                                                                                                                               
 ## Stats
