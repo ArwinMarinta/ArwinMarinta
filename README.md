@@ -23,7 +23,7 @@ Welcome to my profile. I am a Full-Stack Developer experienced in building moder
 | Log & Monitoring | ![](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 | CI/CD & Containerization | ![](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 | Message Broker        | ![](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![](https://img.shields.io/badge/WebSocket-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white) ![](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-| Cache                        | ![](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+| Cache                         | ![](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
                                        
                                                                                                                                                                                                                               
 ## Stats
